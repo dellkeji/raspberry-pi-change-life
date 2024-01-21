@@ -1,0 +1,10 @@
+*.pyc
+logs/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+.Python
+env/
+build/
+develop-eggs/
+dist/
