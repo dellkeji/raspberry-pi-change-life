@@ -1,4 +1,13 @@
 # raspberry-pi-change-life
-## description
+## 描述
 
-Raspberry Pi change our life, and we will use it to change our habit, in order to become more convenient.
+小小的树莓派, 大大方便我们的生活
+
+## 目录结构
+- 简单介绍
+- 贴近生活, 使用场景
+  TODO
+
+## 代码运行
+TODO
+
