@@ -11,3 +11,5 @@
 ## 代码运行
 TODO
 
+## License
+[MIT License](https://github.com/dellkeji/raspberry-pi-change-life/blob/main/LICENSE)
